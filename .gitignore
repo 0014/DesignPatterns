@@ -1,0 +1,14 @@
+AbstractFactoryPattern/bin/
+AbstractFactoryPattern/bin/*
+AbstractFactoryPattern/obj/
+AbstractFactoryPattern/obj/*
+AdapterPattern/bin/
+AdapterPattern/bin/*
+AdapterPattern/obj/
+AdapterPattern/obj/*
+FactoryMethod/bin/
+FactoryMethod/bin/*
+FactoryMethod/obj/
+FactoryMethod/obj/*
+.vs/
+.vs/*
