@@ -1,0 +1,11 @@
+C:\Github\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\DesignPatterns.FactoryMethod.deps.json
+C:\Github\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\DesignPatterns.FactoryMethod.dll
+C:\Github\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\DesignPatterns.FactoryMethod.pdb
+C:\Github\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\DesignPatterns.FactoryMethod.csprojAssemblyReference.cache
+C:\Github\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\DesignPatterns.FactoryMethod.AssemblyInfoInputs.cache
+C:\Github\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\DesignPatterns.FactoryMethod.AssemblyInfo.cs
+C:\Github\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\DesignPatterns.FactoryMethod.dll
+C:\Github\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\DesignPatterns.FactoryMethod.pdb
+C:\Github\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\DesignPatterns.FactoryMethod.exe
+C:\Github\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\DesignPatterns.FactoryMethod.runtimeconfig.json
+C:\Github\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\DesignPatterns.FactoryMethod.runtimeconfig.dev.json
