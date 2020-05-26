@@ -10,5 +10,9 @@ FactoryMethod/bin/
 FactoryMethod/bin/*
 FactoryMethod/obj/
 FactoryMethod/obj/*
+ObserverPattern/bin/
+ObserverPattern/bin/*
+ObserverPattern/obj/
+ObserverPattern/obj/*
 .vs/
 .vs/*
