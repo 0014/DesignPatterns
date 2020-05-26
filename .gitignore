@@ -14,5 +14,9 @@ ObserverPattern/bin/
 ObserverPattern/bin/*
 ObserverPattern/obj/
 ObserverPattern/obj/*
+CompositePattern/bin/
+CompositePattern/bin/*
+CompositePattern/obj/
+CompositePattern/obj/*
 .vs/
 .vs/*
