@@ -18,5 +18,9 @@ CompositePattern/bin/
 CompositePattern/bin/*
 CompositePattern/obj/
 CompositePattern/obj/*
+StrategyPattern/bin/
+StrategyPattern/bin/*
+StrategyPattern/obj/
+StrategyPattern/obj/*
 .vs/
 .vs/*
