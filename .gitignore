@@ -22,5 +22,9 @@ StrategyPattern/bin/
 StrategyPattern/bin/*
 StrategyPattern/obj/
 StrategyPattern/obj/*
+TemplateMethod/bin/
+TemplateMethod/bin/*
+TemplateMethod/obj/
+TemplateMethod/obj/*
 .vs/
 .vs/*
