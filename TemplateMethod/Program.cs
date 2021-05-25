@@ -10,11 +10,11 @@ namespace TemplateMethod
             TextWriter writer = new StringWriter();
             writer.WriteLine("Sending order UPS:");
 
-            var upsOrder = new FedExOrderShipment { ShippingAddress = "20 Roosevelt Way, Landing, NJ 07850" };
+            var order = new FedExOrderShipment { ShippingAddress = "20 Roosevelt Way, Landing, NJ 07850" };
             //OR
-            //var upsOrder = new UpsOrderShipment { ShippingAddress = "20 Roosevelt Way, Landing, NJ 07850" };
+            //var order = new UpsOrderShipment { ShippingAddress = "20 Roosevelt Way, Landing, NJ 07850" };
 
-            upsOrder.Ship(writer);
+            order.Ship(writer);
 
             Console.WriteLine(writer.ToString());
         }
