@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29905.134
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{A38D88AB-3917-40A6-828C-D7F8F52DC5EE}"
 EndProject
@@ -13,11 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverPattern", "Observer
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositePattern", "CompositePattern\CompositePattern.csproj", "{4FA02092-A0C0-413F-ACD7-29546DD73F91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{4C880212-A0C8-4DD3-B0DA-B57F110ABFDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{4C880212-A0C8-4DD3-B0DA-B57F110ABFDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{1279BACC-2D87-4188-BADE-CC417CD14002}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{1279BACC-2D87-4188-BADE-CC417CD14002}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{E41B2F2B-71FF-497E-B0EF-4D8EB0A76B2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{E41B2F2B-71FF-497E-B0EF-4D8EB0A76B2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{B0BF6B42-9784-4F21-83B4-FE267DD6ADC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{E41B2F2B-71FF-497E-B0EF-4D8EB0A76B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E41B2F2B-71FF-497E-B0EF-4D8EB0A76B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E41B2F2B-71FF-497E-B0EF-4D8EB0A76B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0BF6B42-9784-4F21-83B4-FE267DD6ADC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BF6B42-9784-4F21-83B4-FE267DD6ADC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BF6B42-9784-4F21-83B4-FE267DD6ADC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BF6B42-9784-4F21-83B4-FE267DD6ADC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
